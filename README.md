@@ -16,8 +16,6 @@ OpenAI API: The GPT-3.5-turbo model is utilized to generate the pre-defined text
 
 ## Getting Started
 
-Also, I have not uploaded my trained model in this repository due to privacy reasons.
-
 ### Installation
 
 To use Comic Maker, follow these steps:
