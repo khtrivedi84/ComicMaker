@@ -73,6 +73,7 @@ For image style, it is recommended to use "Oil painting" or "Watercolor painting
 Sample image 1
 
 Inputs:
+
 Clothing Style: Superman Costume
 
 Image style: Watercolor painting
