@@ -72,9 +72,16 @@ For image style, it is recommended to use "Oil painting" or "Watercolor painting
 
 Sample image 1
 
+Inputs:
+Clothing Style: Superman Costume
+Image style: Watercolor painting
+
 ![App Screenshot](https://i.imgur.com/wzJ8gcL.jpg)
 
 Sample image 2
+
+Clothing Style: Green lantern costume
+Image style: Oil painting
 
 ![App Screenshot](https://i.imgur.com/aACPtaG.jpg)
 
